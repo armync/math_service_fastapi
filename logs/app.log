@@ -1,0 +1,350 @@
+2025-07-22 15:17:31,308 [INFO] GET / - 404 - 0.49ms
+2025-07-22 15:17:31,391 [INFO] GET /favicon.ico - 404 - 0.52ms
+2025-07-22 15:20:12,477 [INFO] GET /docs - 200 - 0.42ms
+2025-07-22 15:20:12,948 [INFO] GET /openapi.json - 200 - 9.06ms
+2025-07-22 15:21:20,817 [INFO] Power was calculated(3.0) = 27.0
+2025-07-22 15:23:52,533 [INFO] GET /openapi.json - 200 - 1.31ms
+2025-07-22 15:23:52,534 [INFO] GET /docs - 200 - 1.76ms
+2025-07-22 15:23:52,534 [INFO] GET / - 404 - 1.99ms
+2025-07-22 15:23:52,534 [INFO] GET / - 404 - 2.48ms
+2025-07-22 15:23:52,535 [INFO] GET /redocs - 404 - 2.72ms
+2025-07-22 15:23:52,536 [INFO] Power was calculated(2.0) = 9.0
+2025-07-22 15:23:52,594 [INFO] GET /favicon.ico - 404 - 0.29ms
+2025-07-22 15:24:12,440 [INFO] GET / - 404 - 0.59ms
+2025-07-22 15:24:12,446 [INFO] GET / - 404 - 0.3ms
+2025-07-22 15:24:17,054 [INFO] GET /redocs - 404 - 0.35ms
+2025-07-22 15:24:20,874 [INFO] GET /docs - 200 - 0.2ms
+2025-07-22 15:24:21,022 [INFO] GET /openapi.json - 200 - 0.24ms
+2025-07-22 15:26:14,261 [INFO] POST /calculate/pow - 401 - 1.08ms
+2025-07-22 15:26:17,747 [INFO] POST /calculate/pow - 401 - 1.16ms
+2025-07-22 15:26:18,326 [INFO] POST /calculate/pow - 401 - 1.48ms
+2025-07-22 15:26:24,644 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 15:27:51,761 [INFO] GET /docs - 200 - 0.21ms
+2025-07-22 15:27:51,872 [INFO] GET /openapi.json - 200 - 0.23ms
+2025-07-22 15:28:42,053 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 15:28:43,475 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 15:29:19,069 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 15:29:19,194 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 15:32:02,875 [INFO] GET / - 404 - 0.43ms
+2025-07-22 15:32:02,879 [INFO] GET / - 404 - 0.23ms
+2025-07-22 15:32:06,446 [INFO] GET /docs - 200 - 0.25ms
+2025-07-22 15:32:06,526 [INFO] GET /openapi.json - 200 - 0.23ms
+2025-07-22 15:32:27,944 [INFO] POST /calculate/pow - 401 - 1.02ms
+2025-07-22 15:32:45,428 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 15:35:54,979 [INFO] GET /calculate/logs - 422 - 0.96ms
+2025-07-22 15:36:05,294 [INFO] GET /calculate/pow - 405 - 0.22ms
+2025-07-22 16:13:10,971 [INFO] GET / - 404 - 0.67ms
+2025-07-22 16:13:11,011 [INFO] GET / - 404 - 0.29ms
+2025-07-22 16:13:15,342 [INFO] GET /docs - 200 - 0.23ms
+2025-07-22 16:13:15,429 [INFO] GET /openapi.json - 200 - 0.27ms
+2025-07-22 16:13:28,906 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 16:15:55,722 [INFO] GET /docs - 200 - 0.32ms
+2025-07-22 16:15:55,838 [INFO] GET /openapi.json - 200 - 0.24ms
+2025-07-22 16:16:04,864 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 16:16:06,234 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 16:16:22,734 [INFO] Fibonacci was calculated(10) = 55
+2025-07-22 16:16:23,469 [INFO] Fibonacci was calculated(10) = 55
+2025-07-22 16:16:28,598 [INFO] Factorial was calculated(5) = 120
+2025-07-22 16:16:30,418 [INFO] Factorial was calculated(5) = 120
+2025-07-22 16:18:56,619 [INFO] GET / - 404 - 0.33ms
+2025-07-22 16:18:56,625 [INFO] GET / - 404 - 0.18ms
+2025-07-22 16:19:00,057 [INFO] GET /docs - 200 - 0.2ms
+2025-07-22 16:19:00,134 [INFO] GET /openapi.json - 200 - 0.24ms
+2025-07-22 16:19:57,482 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 16:19:58,455 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 16:23:07,968 [INFO] GET / - 404 - 0.38ms
+2025-07-22 16:23:07,975 [INFO] GET / - 404 - 0.17ms
+2025-07-22 16:23:10,409 [INFO] GET /docs - 200 - 0.21ms
+2025-07-22 16:23:10,481 [INFO] GET /openapi.json - 200 - 0.42ms
+2025-07-22 16:24:07,313 [INFO] GET / - 404 - 0.2ms
+2025-07-22 16:24:07,319 [INFO] GET / - 404 - 0.17ms
+2025-07-22 16:24:10,567 [INFO] GET /docs - 200 - 0.21ms
+2025-07-22 16:24:10,643 [INFO] GET /openapi.json - 200 - 0.4ms
+2025-07-22 16:24:19,503 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 16:24:20,340 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 16:25:48,666 [INFO] GET / - 404 - 0.3ms
+2025-07-22 16:25:52,233 [INFO] GET /redocs - 404 - 0.24ms
+2025-07-22 16:25:55,953 [INFO] GET /docs - 200 - 0.41ms
+2025-07-22 16:25:56,025 [INFO] GET /openapi.json - 200 - 0.22ms
+2025-07-22 16:26:13,229 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 16:26:13,245 [INFO] pow(2.0, 3.0) = 8.0 [0.00s]
+2025-07-22 16:26:13,246 [INFO] POST /calculate/pow - 200 - 17.73ms
+2025-07-22 16:26:14,382 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 16:26:14,392 [INFO] pow(2.0, 3.0) = 8.0 [0.00s]
+2025-07-22 16:26:14,393 [INFO] POST /calculate/pow - 200 - 12.54ms
+2025-07-22 16:26:52,614 [INFO] Power was calculated(3.0) = 27.0
+2025-07-22 16:26:52,623 [INFO] pow(3.0, 3.0) = 27.0 [0.00s]
+2025-07-22 16:26:52,624 [INFO] POST /calculate/pow - 200 - 11.42ms
+2025-07-22 16:27:03,183 [INFO] Fibonacci was calculated(10) = 55
+2025-07-22 16:27:03,192 [INFO] fibonacci(10) = 55 [0.00s]
+2025-07-22 16:27:03,193 [INFO] POST /calculate/fib - 200 - 10.31ms
+2025-07-22 16:27:04,360 [INFO] Fibonacci was calculated(10) = 55
+2025-07-22 16:27:04,368 [INFO] fibonacci(10) = 55 [0.00s]
+2025-07-22 16:27:04,368 [INFO] POST /calculate/fib - 200 - 9.41ms
+2025-07-22 16:27:13,565 [INFO] Factorial was calculated(5) = 120
+2025-07-22 16:27:13,574 [INFO] factorial(5) = 120 [0.00s]
+2025-07-22 16:27:13,575 [INFO] POST /calculate/fact - 200 - 11.68ms
+2025-07-22 16:27:14,545 [INFO] Factorial was calculated(5) = 120
+2025-07-22 16:27:14,555 [INFO] factorial(5) = 120 [0.00s]
+2025-07-22 16:27:14,556 [INFO] POST /calculate/fact - 200 - 12.11ms
+2025-07-22 16:30:15,743 [INFO] GET /calculate/logs - 200 - 5.53ms
+2025-07-22 16:30:16,819 [INFO] GET /calculate/logs - 200 - 4.15ms
+2025-07-22 16:43:26,211 [INFO] GET / - 404 - 0.39ms
+2025-07-22 16:43:26,214 [INFO] GET / - 404 - 0.18ms
+2025-07-22 16:43:30,669 [INFO] GET /docs - 200 - 0.34ms
+2025-07-22 16:43:30,744 [INFO] GET /openapi.json - 200 - 0.24ms
+2025-07-22 16:44:19,452 [INFO] GET /docs - 200 - 0.18ms
+2025-07-22 16:44:19,526 [INFO] GET /openapi.json - 200 - 0.23ms
+2025-07-22 16:44:43,173 [INFO] GET /redoc - 200 - 0.33ms
+2025-07-22 16:44:43,463 [INFO] GET /openapi.json - 200 - 0.25ms
+2025-07-22 16:45:28,233 [INFO] GET /calculate/pow - 405 - 0.24ms
+2025-07-22 16:45:33,161 [INFO] GET /docs - 200 - 0.2ms
+2025-07-22 16:45:33,230 [INFO] GET /openapi.json - 200 - 0.23ms
+2025-07-22 16:46:21,703 [INFO] Fibonacci was calculated(10) = 55
+2025-07-22 16:46:21,712 [INFO] fibonacci(10) = 55 [0.00s]
+2025-07-22 16:46:21,713 [INFO] POST /calculate/fib - 200 - 11.12ms
+2025-07-22 17:08:04,357 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000001F910A727B0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:08:04,357 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:08:11,216 [INFO] GET / - 404 - 0.35ms
+2025-07-22 17:08:11,261 [INFO] GET / - 404 - 0.41ms
+2025-07-22 17:08:15,974 [INFO] GET /docs - 200 - 0.25ms
+2025-07-22 17:08:16,056 [INFO] GET /openapi.json - 200 - 0.37ms
+2025-07-22 17:08:55,745 [INFO] Tortoise-ORM shutdown
+2025-07-22 17:08:56,827 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x00000273C68C27B0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:08:56,827 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:09:16,855 [INFO] POST /calculate/pow - 401 - 1.74ms
+2025-07-22 17:09:35,055 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000001FA8DFA27B0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:09:35,055 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:09:36,431 [INFO] GET / - 404 - 0.39ms
+2025-07-22 17:09:36,470 [INFO] GET / - 404 - 0.33ms
+2025-07-22 17:09:39,474 [INFO] GET /docs - 200 - 0.19ms
+2025-07-22 17:09:39,569 [INFO] GET /openapi.json - 200 - 0.24ms
+2025-07-22 17:09:45,392 [INFO] POST /calculate/pow - 401 - 0.9ms
+2025-07-22 17:09:47,312 [INFO] POST /calculate/pow - 401 - 1.28ms
+2025-07-22 17:11:38,741 [INFO] Tortoise-ORM shutdown
+2025-07-22 17:11:39,810 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000001C7879327B0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:11:39,810 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:11:45,625 [INFO] POST /calculate/pow - 401 - 1.17ms
+2025-07-22 17:11:47,541 [INFO] GET /docs - 200 - 0.25ms
+2025-07-22 17:11:47,626 [INFO] GET /openapi.json - 200 - 0.33ms
+2025-07-22 17:11:51,100 [INFO] POST /calculate/pow - 401 - 1.39ms
+2025-07-22 17:11:57,566 [INFO] Tortoise-ORM shutdown
+2025-07-22 17:11:58,429 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x00000183CFBA27B0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:11:58,429 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:12:01,323 [INFO] GET /docs - 200 - 0.25ms
+2025-07-22 17:12:01,376 [INFO] GET /openapi.json - 200 - 0.35ms
+2025-07-22 17:12:05,815 [INFO] POST /calculate/pow - 401 - 1.08ms
+2025-07-22 17:12:08,512 [INFO] POST /calculate/pow - 401 - 1.74ms
+2025-07-22 17:12:08,650 [INFO] POST /calculate/pow - 401 - 1.38ms
+2025-07-22 17:12:36,083 [INFO] Tortoise-ORM shutdown
+2025-07-22 17:12:37,066 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x0000028FFB1B27B0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:12:37,067 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:12:37,109 [INFO] GET /docs - 200 - 0.27ms
+2025-07-22 17:12:37,173 [INFO] GET /openapi.json - 200 - 0.29ms
+2025-07-22 17:12:40,506 [INFO] POST /calculate/pow - 401 - 1.09ms
+2025-07-22 17:12:41,462 [INFO] POST /calculate/pow - 401 - 1.0ms
+2025-07-22 17:12:49,528 [INFO] POST /calculate/pow - 401 - 1.18ms
+2025-07-22 17:12:51,063 [INFO] Tortoise-ORM shutdown
+2025-07-22 17:12:51,629 [INFO] GET /docs - 200 - 0.18ms
+2025-07-22 17:12:51,703 [INFO] GET /openapi.json - 200 - 0.42ms
+2025-07-22 17:12:52,033 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x00000248925727B0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:12:52,034 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:13:01,979 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000002682EC227B0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:13:01,980 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:13:02,751 [INFO] GET / - 404 - 0.32ms
+2025-07-22 17:13:02,797 [INFO] GET / - 404 - 0.32ms
+2025-07-22 17:13:06,201 [INFO] GET /docs - 200 - 0.27ms
+2025-07-22 17:13:06,287 [INFO] GET /openapi.json - 200 - 0.35ms
+2025-07-22 17:13:10,263 [INFO] POST /calculate/pow - 401 - 1.12ms
+2025-07-22 17:13:12,115 [INFO] POST /calculate/pow - 401 - 1.1ms
+2025-07-22 17:13:12,242 [INFO] POST /calculate/pow - 401 - 1.07ms
+2025-07-22 17:13:12,386 [INFO] POST /calculate/pow - 401 - 1.45ms
+2025-07-22 17:13:24,347 [INFO] Tortoise-ORM shutdown
+2025-07-22 17:13:25,383 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x00000184829527B0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:13:25,383 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:13:29,304 [INFO] Tortoise-ORM shutdown
+2025-07-22 17:13:30,136 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000002B656F227B0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:13:30,137 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:13:34,420 [INFO] Power was calculated(3.0) = 8.0
+2025-07-22 17:13:34,447 [INFO] pow(2.0, 3.0) = 8.0 [0.00s]
+2025-07-22 17:13:34,448 [INFO] POST /calculate/pow - 200 - 30.38ms
+2025-07-22 17:13:48,326 [INFO] Tortoise-ORM shutdown
+2025-07-22 17:13:49,217 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000001066CDB27B0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:13:49,218 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:13:51,357 [INFO] Tortoise-ORM shutdown
+2025-07-22 17:13:52,363 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x0000020F06D327B0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:13:52,363 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:13:53,514 [INFO] GET /docs - 200 - 0.24ms
+2025-07-22 17:13:53,565 [INFO] GET /openapi.json - 200 - 0.26ms
+2025-07-22 17:13:57,159 [INFO] POST /calculate/pow - 401 - 1.19ms
+2025-07-22 17:13:58,063 [INFO] POST /calculate/pow - 401 - 1.32ms
+2025-07-22 17:13:58,531 [INFO] POST /calculate/pow - 401 - 20.19ms
+2025-07-22 17:13:58,690 [INFO] POST /calculate/pow - 401 - 0.84ms
+2025-07-22 17:16:19,542 [INFO] Tortoise-ORM shutdown
+2025-07-22 17:16:21,734 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x0000020A30D327B0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:16:21,734 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:16:28,706 [INFO] Tortoise-ORM shutdown
+2025-07-22 17:16:29,595 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000001FF026B27B0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:16:29,595 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:16:42,532 [INFO] GET / - 404 - 0.18ms
+2025-07-22 17:16:45,365 [INFO] GET /docs - 200 - 0.21ms
+2025-07-22 17:16:45,736 [INFO] GET /openapi.json - 200 - 0.25ms
+2025-07-22 17:16:52,873 [INFO] POST /calculate/pow - 401 - 1.11ms
+2025-07-22 17:18:42,610 [INFO] Tortoise-ORM shutdown
+2025-07-22 17:18:44,097 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x0000022A8CC62CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:18:44,097 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:19:36,422 [INFO] GET / - 404 - 0.37ms
+2025-07-22 17:19:38,452 [INFO] GET /docs - 200 - 0.31ms
+2025-07-22 17:19:38,544 [INFO] GET /openapi.json - 200 - 0.29ms
+2025-07-22 17:19:45,422 [INFO] POST /calculate/pow - 401 - 1.36ms
+2025-07-22 17:21:17,899 [INFO] Tortoise-ORM shutdown
+2025-07-22 17:21:18,964 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x0000023BAE992CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:21:18,964 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:21:22,679 [INFO] Tortoise-ORM shutdown
+2025-07-22 17:21:23,645 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000001AE50052CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:21:23,645 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:22:49,589 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000001E32E592CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-22 17:22:49,589 [INFO] Tortoise-ORM generating schema
+2025-07-22 17:22:51,548 [INFO] GET / - 404 - 0.37ms
+2025-07-22 17:22:51,587 [INFO] GET / - 404 - 0.39ms
+2025-07-22 17:22:54,330 [INFO] GET /docs - 200 - 0.21ms
+2025-07-22 17:22:54,415 [INFO] GET /openapi.json - 200 - 0.35ms
+2025-07-22 17:22:59,778 [INFO] POST /calculate/pow - 401 - 1.47ms
+2025-07-22 17:23:01,677 [INFO] POST /calculate/pow - 401 - 1.38ms
+2025-07-22 17:23:02,126 [INFO] POST /calculate/pow - 401 - 0.86ms
+2025-07-22 17:23:02,243 [INFO] POST /calculate/pow - 401 - 1.35ms
+2025-07-22 17:23:12,840 [INFO] GET / - 404 - 0.17ms
+2025-07-22 17:23:17,592 [INFO] GET /docs - 200 - 0.19ms
+2025-07-22 17:23:17,721 [INFO] GET /openapi.json - 200 - 0.29ms
+2025-07-22 17:23:22,543 [INFO] POST /calculate/pow - 401 - 1.18ms
+2025-07-24 10:45:06,245 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x00000259B7FF2CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 10:45:06,246 [INFO] Tortoise-ORM generating schema
+2025-07-24 10:45:59,606 [INFO] GET / - 404 - 0.38ms
+2025-07-24 10:45:59,609 [INFO] GET / - 404 - 0.24ms
+2025-07-24 10:45:59,702 [INFO] GET /favicon.ico - 404 - 0.36ms
+2025-07-24 10:45:59,734 [INFO] GET /favicon.ico - 404 - 0.31ms
+2025-07-24 10:46:04,065 [INFO] GET /docs - 200 - 0.2ms
+2025-07-24 10:46:04,152 [INFO] GET /openapi.json - 200 - 4.84ms
+2025-07-24 10:46:47,143 [INFO] Received pow request: {'base': 2.0, 'exponent': 3.0}
+2025-07-24 10:46:47,148 [INFO] pow(2.0, 3.0) = 8.0 [0.01s]
+2025-07-24 10:46:47,148 [INFO] POST /calculate/pow - 200 - 7.03ms
+2025-07-24 10:46:50,709 [INFO] Received pow request: {'base': 2.0, 'exponent': 3.0}
+2025-07-24 10:46:50,713 [INFO] pow(2.0, 3.0) = 8.0 [0.00s]
+2025-07-24 10:46:50,713 [INFO] POST /calculate/pow - 200 - 5.3ms
+2025-07-24 10:46:55,925 [INFO] Received pow request: {'base': 3.0, 'exponent': 3.0}
+2025-07-24 10:46:55,929 [INFO] pow(3.0, 3.0) = 27.0 [0.00s]
+2025-07-24 10:46:55,929 [INFO] POST /calculate/pow - 200 - 5.97ms
+2025-07-24 11:31:31,674 [INFO] POST /calculate/pow - 401 - 1.24ms
+2025-07-24 11:31:43,170 [INFO] POST /calculate/pow - 401 - 1.17ms
+2025-07-24 14:26:03,263 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000002CBDB06ACF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 14:26:03,264 [INFO] Tortoise-ORM generating schema
+2025-07-24 14:26:03,295 [INFO] Worker started
+2025-07-24 14:26:03,695 [INFO] GET / - 404 - 0.29ms
+2025-07-24 14:26:06,408 [INFO] GET /docs - 200 - 0.23ms
+2025-07-24 14:26:06,501 [INFO] GET /openapi.json - 200 - 5.25ms
+2025-07-24 14:26:16,418 [INFO] Received pow request: {'base': 4.0, 'exponent': 3.0}
+2025-07-24 14:26:16,426 [INFO] pow(4.0, 3.0) = 64.0 [0.01s]
+2025-07-24 14:26:16,427 [INFO] POST /calculate/pow - 200 - 11.39ms
+2025-07-24 14:26:18,346 [INFO] Received pow request: {'base': 4.0, 'exponent': 3.0}
+2025-07-24 14:26:18,351 [INFO] pow(4.0, 3.0) = 64.0 [0.01s]
+2025-07-24 14:26:18,351 [INFO] POST /calculate/pow - 200 - 6.27ms
+2025-07-24 14:28:10,619 [INFO] Worker task cancelled
+2025-07-24 14:28:10,627 [INFO] Tortoise-ORM shutdown
+2025-07-24 14:28:15,038 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000001BBFA726CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 14:28:15,039 [INFO] Tortoise-ORM generating schema
+2025-07-24 14:28:15,043 [INFO] Worker started
+2025-07-24 14:28:16,601 [INFO] GET / - 404 - 0.4ms
+2025-07-24 14:28:16,604 [INFO] GET / - 404 - 0.22ms
+2025-07-24 14:28:20,403 [INFO] GET /docs - 200 - 0.28ms
+2025-07-24 14:28:20,485 [INFO] GET /openapi.json - 200 - 4.17ms
+2025-07-24 14:28:38,778 [INFO] Received pow request: {'base': 2.0, 'exponent': 3.0}
+2025-07-24 14:28:42,499 [INFO] pow completed: result=8.0, duration=0.23ms
+2025-07-24 14:28:42,502 [INFO] Received pow request: {'base': 2.0, 'exponent': 3.0}
+2025-07-24 14:28:42,517 [INFO] pow completed: result=8.0, duration=0.12ms
+2025-07-24 14:29:27,305 [INFO] Worker task cancelled
+2025-07-24 14:29:27,311 [INFO] Tortoise-ORM shutdown
+2025-07-24 14:29:29,873 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x0000016E92D96CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 14:29:29,873 [INFO] Tortoise-ORM generating schema
+2025-07-24 14:29:29,879 [INFO] Worker started
+2025-07-24 14:30:07,185 [INFO] Worker task cancelled
+2025-07-24 14:30:07,187 [INFO] Tortoise-ORM shutdown
+2025-07-24 14:30:08,208 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000002ADE3686CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 14:30:08,209 [INFO] Tortoise-ORM generating schema
+2025-07-24 14:30:08,212 [INFO] Worker started
+2025-07-24 14:30:13,897 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x0000011933BB6CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 14:30:13,897 [INFO] Tortoise-ORM generating schema
+2025-07-24 14:30:13,909 [INFO] Worker started
+2025-07-24 14:30:18,162 [INFO] GET / - 404 - 0.32ms
+2025-07-24 14:30:18,164 [INFO] GET / - 404 - 0.15ms
+2025-07-24 14:30:21,092 [INFO] GET /docs - 200 - 0.21ms
+2025-07-24 14:30:21,172 [INFO] GET /openapi.json - 200 - 4.07ms
+2025-07-24 14:30:27,094 [INFO] Received pow request: {'base': 0.0, 'exponent': 0.0}
+2025-07-24 14:30:27,110 [INFO] pow completed: result=1.0, duration=0.13ms
+2025-07-24 14:31:50,088 [INFO] Worker task cancelled
+2025-07-24 14:31:50,094 [INFO] Tortoise-ORM shutdown
+2025-07-24 14:31:51,347 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x00000137DFDA6CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 14:31:51,348 [INFO] Tortoise-ORM generating schema
+2025-07-24 14:31:51,355 [INFO] Worker started
+2025-07-24 14:31:56,485 [INFO] Worker task cancelled
+2025-07-24 14:31:56,487 [INFO] Tortoise-ORM shutdown
+2025-07-24 14:31:57,576 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000001A3F36D6CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 14:31:57,577 [INFO] Tortoise-ORM generating schema
+2025-07-24 14:31:57,581 [INFO] Worker started
+2025-07-24 14:32:00,942 [INFO] Worker task cancelled
+2025-07-24 14:32:00,943 [INFO] Tortoise-ORM shutdown
+2025-07-24 14:32:02,024 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x00000233A3ED6CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 14:32:02,025 [INFO] Tortoise-ORM generating schema
+2025-07-24 14:32:02,028 [INFO] Worker started
+2025-07-24 14:32:08,305 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x00000176C4016CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 14:32:08,305 [INFO] Tortoise-ORM generating schema
+2025-07-24 14:32:08,317 [INFO] Worker started
+2025-07-24 14:32:09,422 [INFO] GET / - 404 - 0.31ms
+2025-07-24 14:32:09,433 [INFO] GET / - 404 - 0.22ms
+2025-07-24 14:32:13,360 [INFO] GET /docs - 200 - 0.2ms
+2025-07-24 14:32:13,460 [INFO] GET /openapi.json - 200 - 4.18ms
+2025-07-24 14:32:20,088 [INFO] Received pow request: {'base': 0.0, 'exponent': 0.0}
+2025-07-24 14:32:20,090 [INFO] POST /calculate/pow - 200 - 3.99ms
+2025-07-24 14:32:20,095 [INFO] pow completed: result=1.0, duration=0.2ms
+2025-07-24 14:32:31,027 [INFO] Received pow request: {'base': 2.0, 'exponent': 3.0}
+2025-07-24 14:32:31,029 [INFO] POST /calculate/pow - 200 - 2.35ms
+2025-07-24 14:32:31,032 [INFO] pow completed: result=8.0, duration=0.12ms
+2025-07-24 14:33:50,474 [INFO] Worker task cancelled
+2025-07-24 14:33:50,480 [INFO] Tortoise-ORM shutdown
+2025-07-24 14:33:51,735 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000001F6618F6CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 14:33:51,735 [INFO] Tortoise-ORM generating schema
+2025-07-24 14:33:51,741 [INFO] Worker started
+2025-07-24 14:34:30,329 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x00000295D7366CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 14:34:30,329 [INFO] Tortoise-ORM generating schema
+2025-07-24 14:34:30,344 [INFO] Background worker started
+2025-07-24 14:34:30,996 [INFO] GET / - 404 - 0.3ms
+2025-07-24 14:34:30,999 [INFO] GET / - 404 - 0.2ms
+2025-07-24 14:34:34,130 [INFO] GET /docs - 200 - 0.23ms
+2025-07-24 14:34:34,212 [INFO] GET /openapi.json - 200 - 4.63ms
+2025-07-24 14:34:44,227 [INFO] Received pow request: {'base': 2.0, 'exponent': 3.0}
+2025-07-24 14:34:44,228 [INFO] POST /calculate/pow - 200 - 4.07ms
+2025-07-24 14:34:44,233 [INFO] pow({'base': 2.0, 'exponent': 3.0}) = 8.0 [0.16ms]
+2025-07-24 14:35:50,550 [INFO] Worker shutdown
+2025-07-24 14:35:50,556 [INFO] Tortoise-ORM shutdown
+2025-07-24 14:35:51,828 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000001CFF19DECF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 14:35:51,828 [INFO] Tortoise-ORM generating schema
+2025-07-24 14:36:07,161 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x0000022344896CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 14:36:07,162 [INFO] Tortoise-ORM generating schema
+2025-07-24 14:36:08,276 [INFO] GET / - 404 - 0.4ms
+2025-07-24 14:36:08,279 [INFO] GET / - 404 - 0.24ms
+2025-07-24 14:36:10,873 [INFO] GET /docs - 200 - 0.23ms
+2025-07-24 14:36:10,960 [INFO] GET /openapi.json - 200 - 4.19ms
+2025-07-24 14:36:28,718 [INFO] Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x0000019764282CF0>}, {'models': {'RequestLog': <class 'math_service.models.request_log.RequestLog'>}}
+2025-07-24 14:36:28,718 [INFO] Tortoise-ORM generating schema
+2025-07-24 14:36:29,582 [INFO] GET / - 404 - 0.45ms
+2025-07-24 14:36:32,474 [INFO] GET /docs - 200 - 0.36ms
+2025-07-24 14:36:32,557 [INFO] GET /openapi.json - 200 - 4.33ms
+2025-07-24 14:36:44,242 [INFO] Received pow request: {'base': 2.0, 'exponent': 3.0}
+2025-07-24 14:36:44,251 [INFO] pow(2.0, 3.0) = 8.0 [0.01s]
+2025-07-24 14:36:44,252 [INFO] POST /calculate/pow - 200 - 12.96ms
+2025-07-24 15:11:15,158 [INFO] GET / - 404 - 0.45ms
+2025-07-24 15:11:15,163 [INFO] GET / - 404 - 0.37ms
+2025-07-24 15:11:20,029 [INFO] GET /docs - 200 - 0.2ms
+2025-07-24 15:11:20,104 [INFO] GET /openapi.json - 200 - 0.24ms
+2025-07-24 15:11:28,132 [INFO] Received fib request: {'n': 10}
+2025-07-24 15:11:28,135 [INFO] fibonacci(10) = 55 [0.01s]
+2025-07-24 15:11:28,136 [INFO] POST /calculate/fib - 200 - 5.24ms
